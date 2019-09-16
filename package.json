@@ -2,6 +2,7 @@
   "name": "jacqdaf",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://bythealphabet.github.io/Jacqueline-Daflaar/",
   "dependencies": {
     "bulma": "^0.7.4",
     "gh-pages": "^2.1.1",
