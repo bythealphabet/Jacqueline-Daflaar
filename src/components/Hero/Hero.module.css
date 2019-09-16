@@ -1,0 +1,22 @@
+.Bck{
+	/* background-image: linear-gradient(to right, #ffffff 0%, #ffffff 50%, #ffffff 51%  ,#cc339900 100%),url('../../assests/img/bckgym.jpg') ; */
+	background-position: cover;
+	background-size: cover;
+	background-position: top 5%;
+	background-image: 
+}
+
+@media screen and (min-width: 1088px){
+	.Container{
+		display: grid;
+		grid-template-columns: .8fr 1fr;
+	}
+}
+@media screen and (max-width: 1087px){
+	.Container{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+}

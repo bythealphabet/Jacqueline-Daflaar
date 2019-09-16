@@ -1,0 +1,30 @@
+.MotiBox{
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.MotiBox > div{
+	width: 80%;
+}
+
+.MotiBox {
+	font-size: 1.5rem;
+	line-height: 3rem;
+}
+
+.MotiMission{
+	display: block;
+	padding: 0;
+	font-family: 'Playball', cursive;
+	font-size: 3rem;
+	color: #cc3399;
+}
+
+.ReadMore{
+	color: #cc3399;
+	cursor: pointer;
+	font-size: 1.3rem;
+}

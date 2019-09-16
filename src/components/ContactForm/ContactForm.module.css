@@ -1,0 +1,12 @@
+.FormBox{
+	margin: 1.8rem;
+	padding: 1rem;
+	height: 500px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.FormBox > div{
+	width: 80%;
+}
